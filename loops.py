@@ -10,3 +10,4 @@ def looper():
 
     for word in words:
         print(words[word])
+looper()
